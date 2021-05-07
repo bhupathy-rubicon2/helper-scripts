@@ -1,0 +1,2 @@
+- All the scripts here are pre or post processing the ground truth or detections
+- This is a copy of setup in - /ml_nas/Rubicon/Rohini_cl_8_backup/Rohini/rubicon_sow2/scripts

@@ -1,0 +1,7 @@
+data
+*.pb
+pretrained_models
+.ipynb_checkpoint
+*.csv
+*.jpg
+object_detection/protos/*.py
