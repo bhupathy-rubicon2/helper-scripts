@@ -1,3 +1,4 @@
+# To copy high resolution images only
 import os, sys
 import shutil
 import cv2

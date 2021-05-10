@@ -1,3 +1,4 @@
+# To copy images from the list of folders and rename it for potholes audit data
 import sys
 import shutil
 import cv2

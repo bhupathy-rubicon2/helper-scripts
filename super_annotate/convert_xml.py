@@ -1,3 +1,4 @@
+## To convert yolo annotations to pascal voc xml format
 import xml.etree.ElementTree as ET
 import os
 import sys

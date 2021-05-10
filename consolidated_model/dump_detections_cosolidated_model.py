@@ -1,3 +1,4 @@
+# Dump detections from yolo csv to rubicon format for viz or map calculation
 import os, sys
 import shutil
 import argparse

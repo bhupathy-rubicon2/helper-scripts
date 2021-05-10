@@ -1,3 +1,4 @@
+# Script to visualize detections after dumping yolo detections
 import cv2
 import sys
 import glob

@@ -1,3 +1,8 @@
+## Script to upload images and annotations to SA
+## path to token config with structure {"token": "303f4adb15d1373c1bb0ccb7"}
+## token_path = "./config.json"
+## sa.init(token_path)
+
 import superannotate as sa
 
 sa.upload_images_from_folder_to_project(

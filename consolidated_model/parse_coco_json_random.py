@@ -1,3 +1,4 @@
+# To randomly select images from json folder for intial trials with data from jayashree
 import json 
 import glob,random,os
 import shutil

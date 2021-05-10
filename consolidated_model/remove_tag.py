@@ -1,3 +1,4 @@
+# Remove tags from json for the specified class - mailbox
 import os, sys
 import json
 import shutil

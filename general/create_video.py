@@ -1,3 +1,4 @@
+# Create video with frames list from txt file with specified FPS
 import cv2
 import numpy as np
 

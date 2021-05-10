@@ -1,3 +1,4 @@
+# For the given class_list & color list txt files, visualize the GT annotations from rubicon json
 import os, sys
 import json
 import glob

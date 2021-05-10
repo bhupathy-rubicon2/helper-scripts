@@ -1,3 +1,4 @@
+# To randomly select images and select annotations based upon class count from json folder for intial trials with data from jayashree
 import json 
 import glob,random,os,sys
 import shutil

@@ -1,3 +1,4 @@
+# Script to move folder
 import sys
 import shutil
 import cv2

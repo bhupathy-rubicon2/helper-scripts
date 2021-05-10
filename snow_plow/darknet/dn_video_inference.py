@@ -1,3 +1,4 @@
+# To run darknet video inference for snow plow
 import sys, os
 import pdb
 import cv2

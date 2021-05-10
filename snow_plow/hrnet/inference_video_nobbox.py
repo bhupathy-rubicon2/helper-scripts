@@ -1,3 +1,5 @@
+## Script to run video inference for hrnet trained snowplow keypoints model
+## This needs a working hrnet set up with modifications done specifically for snowplow
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function

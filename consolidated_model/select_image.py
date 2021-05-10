@@ -1,3 +1,4 @@
+# select images which classes are in the contaminant.txt file and form a images list file
 import os, sys
 import json
 import glob

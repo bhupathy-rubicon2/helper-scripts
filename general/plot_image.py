@@ -1,3 +1,4 @@
+#Script to plot 2 images side by side
 import os, sys
 import shutil
 import cv2

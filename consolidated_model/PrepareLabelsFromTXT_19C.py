@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# prepare yolo labels from txt file for the 19 classes
 import glob
 import os,sys
 import shutil

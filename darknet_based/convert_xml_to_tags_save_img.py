@@ -1,3 +1,4 @@
+# Convert xml to tags format and save the pothole crops
 import xml.etree.ElementTree as ET
 import os
 import sys

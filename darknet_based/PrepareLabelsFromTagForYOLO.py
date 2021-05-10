@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# To Create yolo labels from tags format
 import glob
 import os
 import shutil

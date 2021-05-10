@@ -1,5 +1,5 @@
 # Copyright (c) 2016 Artsiom Sanakoyeu
-
+# Script to convert annotated snow plow keypoints to csv format
 from __future__ import division
 from __future__ import print_function
 

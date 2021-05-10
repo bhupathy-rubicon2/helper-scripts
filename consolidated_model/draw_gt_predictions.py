@@ -1,3 +1,4 @@
+# Draw gt and predictions on the image with yolo detection csv and ground truth 
 import os, sys
 import shutil
 import cv2

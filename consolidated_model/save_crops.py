@@ -1,3 +1,4 @@
+# To save object crops based upon pixel range in different folders
 import os, sys
 import json
 import glob

@@ -1,3 +1,4 @@
+# Script to dump detections from yolo detections csv
 import os, sys
 import shutil
 import argparse

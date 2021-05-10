@@ -1,3 +1,4 @@
+# Script to get object count from yolo labels
 import cv2
 import sys
 import glob

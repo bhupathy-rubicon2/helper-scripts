@@ -1,3 +1,4 @@
+# To visialize snowplow detections from production daily result jsons
 import os, sys
 import shutil
 import cv2

@@ -1,3 +1,4 @@
+## Script to convert pascal voc format annotations to SA
 import superannotate as sa
 
 '''sa.import_annotation(

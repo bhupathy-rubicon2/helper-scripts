@@ -1,3 +1,4 @@
+# To Convert ground truth xml files to tags format
 import xml.etree.ElementTree as ET
 import os
 import sys

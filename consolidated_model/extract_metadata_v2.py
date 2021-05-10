@@ -1,3 +1,4 @@
+# To get all the meta data from rubicon json 
 import sys
 import json
 import glob

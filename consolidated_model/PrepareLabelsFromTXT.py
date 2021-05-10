@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# Prepare yolo gt labels from txt file generated from Keras-Yolov3-Model-set repo
 import glob
 import os,sys
 import shutil

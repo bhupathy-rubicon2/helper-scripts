@@ -1,3 +1,5 @@
+## Script to convert yolo format annotations to SA
+## This needs a conversion support in SA
 import superannotate as sa
 
 sa.import_annotation(

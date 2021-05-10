@@ -1,3 +1,4 @@
+# Script to get the resolution stats from yolo labels txt
 import cv2
 import sys
 import glob
